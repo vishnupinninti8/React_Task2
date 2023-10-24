@@ -1,0 +1,36 @@
+.col-md-3{
+    background-color: black;
+    color: white;
+    margin-top: 150px !important;
+    border: 0.1px solid black;
+    border-radius: 10%;
+    padding: 19px 0 15px 0 ;
+}
+#textarea{
+    background-color: rgba(20, 19, 101, 0.9) !important;
+
+}
+
+table{
+    margin-top: 20px;
+}
+
+input{    
+    color: white !important;
+    font-size: 1.3rem;
+    width: 100%;
+    background-color: black !important;
+	border: none;
+	padding: 0;
+}
+input[type=text]{
+    height: 9rem !important;
+}
+input:hover{
+    background-color: rgb(33, 32, 32) !important;
+
+}
+.none:hover{
+    background-color: rgb(2, 2, 2) !important;
+
+}
